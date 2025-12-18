@@ -3,7 +3,9 @@
 
 <h2 align="left">🔧 Current Project:</h2>
 ...
+
 [PWA Assessment Task 1](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/PWA_AssessmentTask1)
+
 ---
 
 <h2 align="left">📁 Previous Projects:</h2>
