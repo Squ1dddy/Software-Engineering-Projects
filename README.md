@@ -2,7 +2,6 @@
 <h3 align="center">This repository contains Python and software-engineering projects I’ve built while completing online courses, in class work and self-study.</h3>
 
 <h2 align="left">🔧 Current Project:</h2>
-...
 
 [PWA Assessment Task 1](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/PWA_AssessmentTask1)
 
