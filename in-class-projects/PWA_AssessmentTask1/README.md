@@ -11,18 +11,20 @@ This project demonstrates a Progressive Web Application (PWA) built with modern 
 🖼️ **Dynamic Frontend**   
 Rendering Generates HTML content dynamically from backend data with each new entry, ensuring seamless updates without page reloads.  
 
-🎨 **Responsive CSS** 
+🎨 **Responsive CSS**  
 Animations Provides interactive visual feedback through animations triggered by user actions, enhancing engagement and usability.  
 
-🗄️ **Dual Database** 
+🗄️ **Dual Database**  
 Integration Implements two relational databases connected via foreign keys, enabling efficient communication and data consistency across modules.  
 
-🔍 **AJAX Search System** 
+🔍 **AJAX Search System**  
 Real-time search with keystroke detection and bounceback delay, allowing users to query data without refreshing or filtering the entire page.  
 
-🚀 Performance Filtering Includes filtering by top speed values retrieved directly from the database, showcasing advanced query handling.  
+🚀 **Performance Filtering**  
+Includes filtering by top speed values retrieved directly from the database, showcasing advanced query handling.  
 
-📡 Central Request Management A main server-side file listens for incoming requests, processes them, and returns structured responses to the frontend.  
+📡 **Central Request Management**  
+A main server-side file listens for incoming requests, processes them, and returns structured responses to the frontend.  
 
 ---
 
