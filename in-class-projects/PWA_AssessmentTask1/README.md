@@ -8,13 +8,17 @@ This project demonstrates a Progressive Web Application (PWA) built with modern 
 ---
 
 🧮 **Features**  
-🖼️ Dynamic Frontend Rendering Generates HTML content dynamically from backend data with each new entry, ensuring seamless updates without page reloads.  
+🖼️ **Dynamic Frontend**   
+Rendering Generates HTML content dynamically from backend data with each new entry, ensuring seamless updates without page reloads.  
 
-🎨 Responsive CSS Animations Provides interactive visual feedback through animations triggered by user actions, enhancing engagement and usability.  
+🎨 **Responsive CSS** 
+Animations Provides interactive visual feedback through animations triggered by user actions, enhancing engagement and usability.  
 
-🗄️ Dual Database Integration Implements two relational databases connected via foreign keys, enabling efficient communication and data consistency across modules.  
+🗄️ **Dual Database** 
+Integration Implements two relational databases connected via foreign keys, enabling efficient communication and data consistency across modules.  
 
-🔍 AJAX Search System Real-time search with keystroke detection and bounceback delay, allowing users to query data without refreshing or filtering the entire page.  
+🔍 **AJAX Search System** 
+Real-time search with keystroke detection and bounceback delay, allowing users to query data without refreshing or filtering the entire page.  
 
 🚀 Performance Filtering Includes filtering by top speed values retrieved directly from the database, showcasing advanced query handling.  
 
@@ -23,17 +27,17 @@ This project demonstrates a Progressive Web Application (PWA) built with modern 
 ---
 
 🧠 **Technical Highlights**  
-Progressive Web App Design: Installable, offline-capable, and responsive across devices.  
+**Progressive Web App Design:** Installable, offline-capable, and responsive across devices.  
 
-Database Communication: Foreign key relationships ensure relational integrity and efficient cross-table queries.  
+**Database Communication:** Foreign key relationships ensure relational integrity and efficient cross-table queries.  
 
-AJAX Implementation: Smooth asynchronous data retrieval without disrupting the user interface.  
+**AJAX Implementation:** Smooth asynchronous data retrieval without disrupting the user interface.  
 
-Responsive UI/UX: CSS animations and adaptive layouts provide a polished, modern experience.  
+**Responsive UI/UX:** CSS animations and adaptive layouts provide a polished, modern experience.  
 
-Scalable Architecture: Modular backend design supports future expansion and additional features.  
+**Scalable Architecture:** Modular backend design supports future expansion and additional features.  
 
-Search Optimization: Bounceback delay prevents excessive queries, balancing responsiveness with performance.  
+**Search Optimization:** Bounceback delay prevents excessive queries, balancing responsiveness with performance.  
 
 ---
 
@@ -42,5 +46,5 @@ Search Optimization: Bounceback delay prevents excessive queries, balancing resp
 
 ---
 
-🎯 **Purpose**
+🎯 **Purpose**  
 This application was developed as part of a Year 12 Software Engineering assessment task. It demonstrates advanced web development skills, including database integration, asynchronous communication, and responsive design. The project highlights the transition from console-based applications to fully interactive web systems, aligning with industry practices and university-level expectations in software engineering and cybersecurity programs.
