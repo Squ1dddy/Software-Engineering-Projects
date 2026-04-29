@@ -16,6 +16,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [Unsecure PWA Security Audit](https://github.com/Squ1dddy/Unsecure_PWA) | Identified and patched 5 real vulnerabilities (XSS, CSRF, SQL injection, broken auth, open redirect) in a Flask PWA. Includes a full professional security report. |
 | [Console Based Learning Application](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task1) | Interactive quiz and learning app built in Python |
 | [Console Based Dungeon Exploring Game](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task2) | Turn-based RPG engine with inventory, combat, and branching narrative |
 
