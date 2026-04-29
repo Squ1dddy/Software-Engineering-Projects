@@ -1,45 +1,38 @@
-<h1 align="center">Software Engineering Projects Repository</h1>
-<h3 align="center">This repository contains Python and software-engineering projects I’ve built while completing online courses, in class work and self-study.</h3>
+<h1 align="center">Software Engineering Projects</h1>
 
-<h2 align="left">🔧 Current Project:</h2>
-
-[PWA Assessment Task 1](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/PWA_AssessmentTask1)
-
----
-
-<h2 align="left">📁 Previous Projects:</h2>
-
-- [in-class-projects](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects)
-  - [Console Based Learning Application](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task1)
-  - [Console Based Dungeon Exploring Game](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task2)
+<p align="center">
+  Python and software engineering projects built through coursework, in-class work, and self-study.
+</p>
 
 ---
 
-<h2 align="left">🧠 Skills Demonstrated:</h2>
+## 🔧 Current Project
 
-- Python scripting and automation 🐍  
-- Network scanning and socket programming 🔎  
-- Cybersecurity fundamentals 🔐  
-- Markdown documentation ✍️  
-- Git version control 🗂️  
-- Object Oriented Programming 💻  
-- Programming For the Web 🌐  
-- Programming Fundamentals ⚙️  
+[Assessment Task 3](https://github.com/Squ1dddy/Software-Engineering-Projects) — In progress. Details to be updated once project requirements are released.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 📁 Previous Projects
+
+| Project | Description |
+|---------|-------------|
+| [Console Based Learning Application](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task1) | Interactive quiz and learning app built in Python |
+| [Console Based Dungeon Exploring Game](https://github.com/Squ1dddy/Software-Engineering-Projects/tree/main/in-class-projects/Assessment-Task2) | Turn-based RPG engine with inventory, combat, and branching narrative |
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Python scripting and OOP
+- Web programming (HTML, CSS)
+- Git version control and documentation
+- Programming fundamentals and problem solving
+- Markdown documentation
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,blender" />
 </p>
